@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(99, 47, 147, 0.893);
+    margin:0 20%;
+    font-family: monospace;
+    color: beige;
+}
+
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(247, 244, 244);
+    font-size:3em;
+    color: black;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin: 0 24%;
+}
+
+#img-caption{
+    font-size: 12px;
+    
+}
+
+div#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 15px rgba(242, 236, 73, 0.827);
+    padding:5px 10px;
+    margin-top:20px;
+}
+h1.title{
+    color:white;
+    text-align:center;
+    text-shadow: 5px 5px 10px black;
+}
+.linked{
+    color: black;
+    padding-bottom: 30px;
+}
